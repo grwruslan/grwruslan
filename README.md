@@ -1,4 +1,4 @@
-# Hi! I'm a QA Engineer 👋
+# Hi! I am a QA Engineer 👋
 
 Welcome to my profile. Here you'll find a complete set of test documentation (checklists, test cases, and bug reports) that I developed while testing a real e-commerce platform.
 
