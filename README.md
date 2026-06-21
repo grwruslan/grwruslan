@@ -1,10 +1,11 @@
-#Hi! I'm a QA engineer 👋
+# Hi! I'm a QA Engineer 👋
 
 Welcome to my profile. Here you'll find a complete set of test documentation (checklists, test cases, and bug reports) that I developed while testing a real e-commerce platform.
 
 ### 🌐 Test Object Details:
 * **Website:** [Erbology Official Website](https://erbology.co)
 * **Project Type:** International Online Store
+
 ---
 
 ## 📂 Portfolio Navigation (click to view files):
@@ -22,54 +23,35 @@ Welcome to my profile. Here you'll find a complete set of test documentation (ch
 
 ## 🛠 Skills and Tools
 
-### 🧪 Core QA Competencies
+### 🧪 Core Quality Assurance Competencies
 * **Test Documentation:** Working with test cases, test suites, checklists, and specifications.
-
-* **Test Design:** Applying test design techniques to optimize testing and prioritizing test cases.
-
+* **Test Design:** Applying test design techniques to optimize testing and prioritize test cases.
 * **Test Types:** Practical application of black-box, gray-box, and white-box testing techniques.
-
-* **Automation:** Strong ability to automate routine processes to free up time for important and mission-critical testing tasks.
+* **Automation Mindset:** Understanding how to use Python and JavaScript to automate routine manual testing tasks.
 
 ### 💻 Programming Languages
-![Python](https://shields.io)
-
-![JavaScript](https://shields.io)
+* **Languages:** Python, JavaScript
 
 ### 🌐 Web and API Testing
-![Postman](https://shields.io)
-![Swagger](https://shields.io)
-![Chrome DevTools](https://shields.io)
-* **API Tools:** SoapUI
-* **Web Technologies and Data Formats:** HTML, CSS, JSON, XML
+* **API Testing Tools:** Postman, Swagger, SoapUI
+* **Web Tech & Data Formats:** HTML, CSS, JSON, XML, Chrome DevTools
 
 ### 🤖 Test Automation and Performance
-![Selenium](https://shields.io)
-![Appium](https://shields.io)
-
-![JMeter](https://shields.io)
+* **Automation Frameworks:** Selenium, Appium
+* **Performance Tools:** Apache JMeter
 
 ### 📱 Mobile Testing (Android)
-![Android Studio](https://shields.io)
-* **Tools:** Android Debug Bridge (ADB)
+* **Environment & Tools:** Android Studio, Android Debug Bridge (ADB)
 
 ### ⚙️ DevOps, Infrastructure, and Databases
-![Docker](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
+* **Infrastructure & Containers:** Docker
+* **Databases:** PostgreSQL, MySQL
 
 ### 🔄 CI/CD Pipelines
-![Jenkins](https://shields.io)
-![GitHub Actions](https://shields.io)
+* **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI
 
-![GitLab CI](https://shields.io)
-
-### 📦 Management and Versioning Management
-![Jira](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![GitLab](https://shields.io)
-![Bitbucket](https://shields.io)
+### 📦 Management and Version Control
+* **Management & Version Control Systems:** Jira, Git, GitHub, GitLab, Bitbucket
 * **Issue Tracking System:** Bugzilla
 * **Productivity Tools:** Google Workspace, Microsoft Office
 
