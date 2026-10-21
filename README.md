@@ -6,7 +6,9 @@ This project contains automated tests for NocoDB built with **Pytest** and **Pla
 
 ## 📦 1. NocoDB Deployment (Docker)
 
-The official Docker image is used to run the NocoDB application. Installation and download instructions can be found at the source repository: [://github.com](https://github.com/grwruslan/grwruslan).
+The official Docker image is used to run the NocoDB application. Installation and download instructions can be found at the source repository: [NocoDB](https://github.com/nocodb).
+
+Also, my contribution to the [NocoDB](https://github.com/grwruslan/grwruslan) project as a QA Engineer
 
 Run the following command in your terminal to quickly launch the container:
 ```powershell
